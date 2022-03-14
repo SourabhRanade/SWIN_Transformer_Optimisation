@@ -16,6 +16,6 @@ Pruning (as given by Pytorch) : [Pytorch Pruning](https://pytorch.org/tutorials/
 Quantisation(as given by Pytorch) : [Pytorch Quantization](https://pytorch.org/docs/stable/quantization.html),
 Low Rank Trasnformations
 
-Similarly, a small 'Proof of Concept' was performed for the task of weight clustering. In order to actually acheive weight sharing using this involved digging deep into the mmdetection and mmcv libraries and change the way initialisation of weights takes place. We haven't covered the same in this scope.
+Similarly, a small 'Proof of Concept' was performed for the task of weight clustering. In order to actually achieve weight sharing using this involved digging deep into the mmdetection and mmcv libraries and change the way initialisation of weights takes place. We haven't covered the same in this scope.
 
 
