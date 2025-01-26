@@ -1,5 +1,5 @@
 # SWIN_Transformer_optimisation
-The task aimed at is the optimisation of a MASK RCNN model with a SWIN Transformer backbone. 
+The mini project was aimed at the optimisation of a MASK RCNN model with a SWIN Transformer backbone. 
 A total of two notebooks have been added to the repository. 
 The first notebook: `FInal_Submission.ipynb` is where the task of `Pruning`, `Low Rank Transformation` and `Quantization` has been performed on a model, while on the other hand the second notebook: `Weight_clustering.ipynb` involves a small POC for `weight clustering`.
 
